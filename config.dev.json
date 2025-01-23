@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "karmelsensei@gmail.com",
-    "password": "sasori",
+    "email": "lorenzopogi014@gmail.com",
+    "password": "Gabrielyuan456",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,14 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["100080355760429" ],
+  "adminBot": ["61562953390569" ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『𝐒𝐀 𝐌𝐈』ホ",
-  "prefix": "¥",
+  "nickNameBot": "義 𝗚𝗶𝘆𝘂 | 🌊 勇",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -60,7 +60,7 @@
     }
   },
   "autoRestart": {
-    "time": null,
+    "time": 3600000,
     "notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
   },
   "autoUptime": {
